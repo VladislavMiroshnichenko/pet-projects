@@ -1,4 +1,4 @@
-## Тут хранятся мои pet projects.
+## Pet projects.
 
 ---
 
